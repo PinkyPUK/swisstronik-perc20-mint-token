@@ -74,9 +74,6 @@ npm run transfer
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+by : github : https://github.com/PinkyPUK twitter : @PinkyP_UK telegram : @pinkypuk7
 
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
+0xD69cEd026E009975321699c67840cAf2E72AaeB1
